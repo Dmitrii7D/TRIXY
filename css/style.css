@@ -10,7 +10,7 @@ body {
 	column-gap: 10px;
 }
 
-h1 {
+.sitename {
 	font-size: 120px;
 	font-weight: 300;
 }
