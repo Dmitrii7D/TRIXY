@@ -48,13 +48,10 @@ body {
 	color: #F2F2F2;
 }
 
-.text span {
+.textword {
 	font-weight: 800;
 }
 
-img {
-	max-width: 100%;
-}
 
 .tryx {
 	width: 100%;
