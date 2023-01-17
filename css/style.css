@@ -1,8 +1,3 @@
-/* html,
-body {
-	height: 100%;
-} */
-
 body {
 
 	background-color: #000000;
@@ -14,33 +9,6 @@ body {
 	justify-content: space-between;
 	column-gap: 10px;
 }
-
-/* .wrapper {
-	min-width: 100%;
-	overflow: hidden;
-	display: flex;
-} */
-
-/* .container {
-
-	width: 1630px;
-	margin: 0 auto;
-	padding: 0px 15px;
-	background-color: rgb(209, 16, 16);
-	display: flex;
-	justify-content: space-between;
-} */
-
-/* @media screen and (max-width: 768px) {
-	.container {
-	 max-width: ; 
-	background-color: rgb(80, 26, 208);
-
-	}
-} */
-
-.content {}
-
 
 h1 {
 	font-size: 120px;
@@ -83,13 +51,6 @@ h1 {
 .text span {
 	font-weight: 800;
 }
-
-
-
-
-
-
-
 
 img {
 	max-width: 100%;
