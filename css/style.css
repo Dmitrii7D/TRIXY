@@ -1,0 +1,114 @@
+/* html,
+body {
+	height: 100%;
+} */
+
+body {
+
+	background-color: #000000;
+	font-family: Gilroy;
+	font-style: normal;
+	color: white;
+	padding-inline: 160px;
+	display: flex;
+	justify-content: space-between;
+	column-gap: 10px;
+}
+
+/* .wrapper {
+	min-width: 100%;
+	overflow: hidden;
+	display: flex;
+} */
+
+/* .container {
+
+	width: 1630px;
+	margin: 0 auto;
+	padding: 0px 15px;
+	background-color: rgb(209, 16, 16);
+	display: flex;
+	justify-content: space-between;
+} */
+
+/* @media screen and (max-width: 768px) {
+	.container {
+	 max-width: ; 
+	background-color: rgb(80, 26, 208);
+
+	}
+} */
+
+.content {}
+
+
+h1 {
+	font-size: 120px;
+	font-weight: 300;
+}
+
+.logo {
+	margin-top: 63px;
+	width: 100%;
+}
+
+.rest {
+	width: 329px;
+	height: 25px;
+	margin-top: 217px;
+	background: #FFFFFF;
+}
+
+.link {
+	margin-top: 55px;
+	font-weight: 300;
+	font-size: 40px;
+	text-decoration-line: underline;
+
+}
+
+.link a {
+	color: #FFFFFF;
+}
+
+.text {
+	width: 240px;
+	height: 193px;
+	margin-top: 55px;
+	font-size: 40px;
+	line-height: 46px;
+	color: #F2F2F2;
+}
+
+.text span {
+	font-weight: 800;
+}
+
+
+
+
+
+
+
+
+img {
+	max-width: 100%;
+}
+
+.tryx {
+	width: 100%;
+	max-width: 729.5px;
+	height: 100%;
+	margin-right: 71.5px;
+	margin-top: 288.5px;
+
+}
+
+@media screen and (max-width: 768px) {
+	body {
+		flex-direction: column;
+	}
+	.tryx{
+		margin-top: 150px;
+	}
+}
